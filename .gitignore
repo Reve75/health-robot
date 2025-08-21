@@ -1,0 +1,36 @@
+tmp/
+components/
+managed_components/
+build/
+.vscode/
+.devcontainer/
+sdkconfig.old
+sdkconfig
+dependencies.lock
+.env
+releases/
+main/assets/lang_config.h
+main/mmap_generate_emoji.h
+.DS_Store
+.cache
+main/mmap_generate_emoji.h
+*.pyc
+*.bin
+
+# Server configuration files (contains sensitive IPs/URLs)
+.env.secret
+server_config.env
+server_config.local
+main/config/server_config_local.h
+config.local
+
+# Security sensitive files
+*.key
+*.pem
+*.cert
+secrets.h
+credentials.h
+
+# Build configuration with sensitive data
+sdkconfig.defaults.local
+CMakeLists.txt.local
