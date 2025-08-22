@@ -1,10 +1,10 @@
-# Desktop Health Assistant Robot - ESP32 Firmware
+# Health Assistant Robot - ESP32 Firmware
 
 This project is a fork of [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) that has been modified to serve as a health assistant robot, focusing on medication management and health monitoring.
 
 ## Original Project
 
-This firmware is based on the excellent xiaozhi-esp32 project by 虾哥 (Xia Ge), which provides a foundation for ESP32-based AI chatbots with voice interaction capabilities.
+This firmware is based on the excellent xiaozhi-esp32 project by ?????? (Xia Ge), which provides a foundation for ESP32-based AI chatbots with voice interaction capabilities.
 
 ## Major Modifications
 
